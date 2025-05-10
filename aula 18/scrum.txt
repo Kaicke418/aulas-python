@@ -1,0 +1,26 @@
+Scrum master: É aquele que domina o scrum e serve de facilitador, ou seja, é uma pessoa que domina completamente o método e estará  encarregada de 
+garantir que o projeto ocorra da melhor maneira possível, respeitando prazos e impedindo atrasos, garantindo o sucesso do projeto. O Scrum Master 
+será responsável por remover todos os impedimentos do projeto, assegurando o ambiente mais favorável, buscando as ferramentas necessárias para a 
+equipe scrum e resolvendo os possíveis problemas que possam atrapalhar o andamento do processo.
+
+Product Owner: O significado de Product Owner é, literalmente, “dono do produto”. O PO, em linhas gerais, representa os interesses de stakeholders 
+(no sentido de agregar valor ao negócio), define funcionalidades do produto e faz a gestão do backlog, priorizando tarefas segundo métodos ágeis, como o Scrum.
+Resumidamente, a Metodologia Scrum é uma ferramenta de gestão que busca aumentar a eficiência de processos e resultados. Para isso, a proposta é estabelecer um 
+ciclo de atividades orientado por reuniões de alinhamento de curta duração (sprints). Dessa forma, todos do time ficam alinhados, obstáculos são eliminados e prioridades 
+são definidas. 
+    Nesse contexto, o Scrum Product Owner é o responsável por atuar como guardião do processo. Ele coordena as necessidades do cliente às partes interessadas, tomando decisões
+ de forma a garantir o máximo valor a um baixo custo. 
+
+
+equipe scrum: trata-se da equipe que irá desenvolver o produto. É necessário que a equipe scrum seja composta de 5 a 9 membros que possuam as competências
+necessárias para realizar as entregas. Enquanto o dono do produto define os requisitos prioritários, a equipe scrum define quais podem ser feitos 
+durante a Sprint e os prazos de entrega. A equipe scrum precisa ser auto-organizada, pois eles têm total autonomia para conversar e decidir quem 
+resolve o que, compartilhar informações e decidir os caminhos de execução do projeto.
+
+equipe de tecnologia: Uma equipe de tecnologia Scrum é uma equipe que utiliza a metodologia Scrum para desenvolver e entregar produtos, especialmente software, 
+de forma ágil e colaborativa.Ela é composta por membros com diferentes habilidades que trabalham em conjunto para criar valor, seguindo um processo iterativo e incremental, 
+com foco na entrega de resultados. 
+
+lide de equipe TI: Um líder de equipe de TI Scrum, frequentemente chamado de Scrum Master ou Lead da Equipe Scrum, é responsável por facilitar e guiar a equipe no processo 
+de desenvolvimento de software utilizando a metodologia Scrum. Eles não são necessariamente um gerente de projetos no sentido tradicional, mas sim um facilitador que ajuda
+a equipe a se auto-organizar e a alcançar seus objetivos de forma eficiente e colaborativa. 
